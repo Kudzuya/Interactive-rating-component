@@ -1,7 +1,8 @@
 # Interactive-rating-component
 FrontendMentor
 
-Created two cards with javascriot code, wthis part was tricky
+Created two cards with javascriot code, first card doesn't display ater clicking submit buttoon, this part was tricky
+
 But all done!
 
 
